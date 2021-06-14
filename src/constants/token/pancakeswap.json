@@ -1,0 +1,22 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [   
+     {
+      "name": "PuffyDogCoin",
+      "symbol": "PUFFY",
+      "address": "0x42873a833717753a8d77ad6d0a8710af2c66c052",
+      "chainId": 97,
+      "decimals": 9,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x42873a833717753a8d77ad6d0a8710af2c66c052.png"
+    } 
+  ]
+}
